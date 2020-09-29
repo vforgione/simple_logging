@@ -1,0 +1,7 @@
+__pycache__
+.mypy_cache
+.pytest_cache
+.vscode
+*.egg-info
+.coverage
+poetry.lock
